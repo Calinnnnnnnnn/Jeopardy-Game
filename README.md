@@ -1,5 +1,5 @@
 # Jeopardy-Game
-POO Project
+OOP Project
 
 Welcome to the special edition Jeopardy Challenge dedicated to SEO and Digital Marketing enthusiasts! This game is designed to test and enrich your knowledge of search engine optimization (SEO) and digital marketing.
 
